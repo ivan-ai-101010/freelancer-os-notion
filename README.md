@@ -4,6 +4,8 @@
 
 **[➡️ Get the full template on Gumroad →](https://gumroad.com/l/freelancer-os)**
 
+**[👀 Preview the template →](https://irradiated-cause-ab8.notion.site/Freelancer-OS-Complete-Business-Template-3669e306b520814bad6ac295d120a9dc)**
+
 ---
 
 ## What's inside
@@ -35,6 +37,8 @@ The free preview shows the structure. The paid version ($19) includes:
 - Time tracker with hourly rate calculations
 
 **[Get it on Gumroad →](https://gumroad.com/l/freelancer-os)**
+
+**[Preview template →](https://irradiated-cause-ab8.notion.site/Freelancer-OS-Complete-Business-Template-3669e306b520814bad6ac295d120a9dc)**
 
 ---
 
