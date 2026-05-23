@@ -21,7 +21,7 @@ Everything is connected via Notion relations, so when you click a project you se
 
 **Free preview:** [github.com/ivan-ai-101010/freelancer-os-notion](https://github.com/ivan-ai-101010/freelancer-os-notion)
 
-**Full template ($19):** [gumroad.com/l/freelancer-os](https://gumroad.com/l/freelancer-os) — includes all sample data and pre-configured views
+**Full template ($19):** [ivanai.gumroad.com/l/iarfnw](https://ivanai.gumroad.com/l/iarfnw) — includes all sample data and pre-configured views
 
 Happy to answer questions about the structure!
 
@@ -68,6 +68,6 @@ Just launched my first paid digital product: a Notion template for freelancers.
 
 **GitHub (free preview):** [github.com/ivan-ai-101010/freelancer-os-notion](https://github.com/ivan-ai-101010/freelancer-os-notion)
 
-**Gumroad:** [gumroad.com/l/freelancer-os](https://gumroad.com/l/freelancer-os)
+**Gumroad:** [ivanai.gumroad.com/l/iarfnw](https://ivanai.gumroad.com/l/iarfnw)
 
 Goal is $20 in the first week — would mean a lot. Happy to give feedback on anyone else's side projects too!

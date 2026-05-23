@@ -4,7 +4,7 @@ The Notion Marketplace listing links to your Gumroad page for payment.
 You need to set up a Gumroad product so that URL actually works.
 
 ## Target URL (already embedded in all listings)
-https://ivan-ai-101010.gumroad.com/l/freelancer-os
+https://ivanai.gumroad.com/l/iarfnw
 
 ## Steps to set up Gumroad (5 minutes)
 

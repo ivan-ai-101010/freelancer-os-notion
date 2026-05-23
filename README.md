@@ -3,10 +3,10 @@
 > Run your entire freelance business from one Notion workspace — client CRM, projects, invoices, time log, all connected.
 
 [![License: Free Preview](https://img.shields.io/badge/Preview-Free-green.svg)](https://irradiated-cause-ab8.notion.site/Freelancer-OS-Complete-Business-Template-3669e306b520814bad6ac295d120a9dc)
-[![Price](https://img.shields.io/badge/Full%20Version-$19-blue.svg)](https://ivan-ai-101010.gumroad.com/l/freelancer-os)
+[![Price](https://img.shields.io/badge/Full%20Version-$19-blue.svg)](https://ivanai.gumroad.com/l/iarfnw)
 [![Notion](https://img.shields.io/badge/Built%20for-Notion-black.svg)](https://notion.so)
 
-**[➡️ Get the full template — $19 →](https://ivan-ai-101010.gumroad.com/l/freelancer-os)**
+**[➡️ Get the full template — $19 →](https://ivanai.gumroad.com/l/iarfnw)**
 
 **[👀 Preview the free version →](https://irradiated-cause-ab8.notion.site/Freelancer-OS-Complete-Business-Template-3669e306b520814bad6ac295d120a9dc)**
 
@@ -73,7 +73,7 @@ Freelancer OS is a complete **Notion business template** built for freelancers, 
 | Dashboard | ❌ | ✅ |
 | Getting Started guide | ❌ | ✅ |
 
-**[Get the full version — $19 →](https://ivan-ai-101010.gumroad.com/l/freelancer-os)**
+**[Get the full version — $19 →](https://ivanai.gumroad.com/l/iarfnw)**
 
 ---
 

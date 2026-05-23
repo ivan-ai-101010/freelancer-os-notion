@@ -21,7 +21,7 @@
   - Title: "Freelancer OS — Complete Business System"
   - Price: $19
   - Categories: Freelance, CRM
-  - Purchase URL: https://ivan-ai-101010.gumroad.com/l/freelancer-os
+  - Purchase URL: https://ivanai.gumroad.com/l/iarfnw
 
 ### Content
 - [x] 3 Reddit posts written and ready to post (REDDIT_POSTS.md)
